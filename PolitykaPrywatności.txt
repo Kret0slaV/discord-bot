@@ -1,0 +1,49 @@
+Polityka prywatności
+
+Ostatnia aktualizacja: 31 sierpnia 2026 r.
+
+Niniejsza Polityka prywatności opisuje sposób przetwarzania danych przez aplikację Discord "Brain_Damage".
+
+1. Jakie dane mogą być przetwarzane
+
+W zależności od funkcji używanych przez użytkownika aplikacja może przetwarzać między innymi:
+
+identyfikator użytkownika Discord,
+identyfikator serwera Discord,
+identyfikator kanału lub wiadomości,
+informacje dotyczące użycia komend,
+dane niezbędne do działania funkcji aplikacji.
+
+Aplikacja nie powinna wymagać od użytkowników podawania haseł do Discorda ani innych danych uwierzytelniających.
+
+2. Cel przetwarzania danych
+
+Dane są przetwarzane wyłącznie w celu:
+
+zapewnienia działania funkcji aplikacji,
+obsługi komend i żądań użytkowników,
+zapewnienia bezpieczeństwa aplikacji,
+diagnozowania błędów i nadużyć.
+3. Przechowywanie danych
+
+Dane są przechowywane wyłącznie przez okres niezbędny do realizacji celu, dla którego zostały zebrane, chyba że obowiązujące przepisy wymagają ich dłuższego przechowywania.
+
+4. Udostępnianie danych
+
+Dane użytkowników nie są sprzedawane ani udostępniane podmiotom trzecim w celach marketingowych.
+
+Dane mogą być przetwarzane przez dostawców infrastruktury lub usług niezbędnych do działania aplikacji, jeżeli jest to konieczne do jej prawidłowego funkcjonowania.
+
+5. Prawa użytkownika
+
+W zakresie przewidzianym przez obowiązujące przepisy użytkownik może mieć prawo do dostępu do swoich danych, ich poprawienia, usunięcia, ograniczenia przetwarzania oraz wniesienia sprzeciwu wobec przetwarzania.
+
+W celu realizacji swoich praw należy skontaktować się z twórcą aplikacji poprzez Discord: dzwon_mi_krecik.
+
+6. Zmiany polityki prywatności
+
+Polityka prywatności może być okresowo aktualizowana. Aktualna wersja będzie publikowana w miejscu udostępnienia niniejszego dokumentu.
+
+7. Kontakt
+
+W sprawach dotyczących prywatności należy skontaktować się poprzez Discord: dzwon_mi_krecik.

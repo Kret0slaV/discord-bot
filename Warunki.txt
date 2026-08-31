@@ -1,0 +1,29 @@
+Warunki korzystania z usługi
+
+Ostatnia aktualizacja: 31 sierpnia 2026 r.
+
+Korzystając z aplikacji Discord [NAZWA BOTA], użytkownik akceptuje niniejsze Warunki korzystania.
+
+1. Korzystanie z aplikacji
+
+Aplikacja jest przeznaczona do użytku na serwerach Discord zgodnie z zasadami Discord oraz obowiązującym prawem.
+
+Użytkownik zobowiązuje się nie wykorzystywać aplikacji do działań niezgodnych z prawem, nadużywania jej funkcji, obchodzenia zabezpieczeń ani powodowania zakłóceń w jej działaniu.
+
+2. Dostępność usługi
+
+Aplikacja jest udostępniana w stanie „takim, jakim jest”. Nie gwarantujemy jej nieprzerwanego działania ani dostępności wszystkich funkcji.
+
+Możemy w dowolnym momencie aktualizować, zmieniać, ograniczać lub wyłączać funkcje aplikacji.
+
+3. Odpowiedzialność
+
+Twórca aplikacji nie ponosi odpowiedzialności za działania użytkowników podejmowane przy wykorzystaniu aplikacji ani za szkody wynikające z nieprawidłowego korzystania z niej.
+
+4. Zmiany warunków
+
+Warunki mogą zostać zmienione w dowolnym momencie. Aktualna wersja będzie udostępniana wraz z aplikacją lub w miejscu, w którym opublikowano niniejszy dokument.
+
+5. Kontakt
+
+W sprawach dotyczących aplikacji można skontaktować się z jej twórcą poprzez Discord: dzwon_mi_krecik .
